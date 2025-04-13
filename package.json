@@ -1,0 +1,12 @@
+{
+  "name": "ping-worker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.4.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
